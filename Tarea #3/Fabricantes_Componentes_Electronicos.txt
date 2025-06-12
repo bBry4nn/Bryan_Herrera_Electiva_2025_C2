@@ -1,0 +1,22 @@
+Fabricantes de Componentes Electrónicos
+
+Infineon Technologies: https://www.infineon.com
+Texas Instruments (TI): https://www.ti.com
+NXP Semiconductors: https://www.nxp.com
+Nexperia: https://www.nexperia.com
+Analog Devices (ADI): https://www.analog.com
+STMicroelectronics: https://www.st.com
+ON Semiconductor (onsemi): https://www.onsemi.com
+Microchip Technology: https://www.microchip.com
+Maxim Integrated: https://www.analog.com/en/products/maxim-integrated.html
+Rohm Semiconductor: https://www.rohm.com
+Renesas Electronics: https://www.renesas.com
+Vishay Intertechnology: https://www.vishay.com
+ON Bright Electronics: http://www.on-bright.com
+Skyworks Solutions: https://www.skyworksinc.com
+Qualcomm: https://www.qualcomm.com
+Broadcom Inc.: https://www.broadcom.com
+Murata Manufacturing: https://www.murata.com
+TDK Electronics: https://www.tdk.com
+KEMET Electronics: https://www.kemet.com
+Yageo Corporation: https://www.yageo.com
