@@ -671,26 +671,26 @@
 		)
 	)
 	(junction
-		(at 100.33 86.36)
+		(at 140.97 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7a310f13-267d-499b-9c93-fc9b07ea421c")
 	)
 	(junction
-		(at 110.49 69.85)
+		(at 151.13 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b06637d9-dddb-4b84-97ed-4c4794bc6423")
 	)
 	(junction
-		(at 88.9 69.85)
+		(at 129.54 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "badfd67e-3558-4e00-b343-1e4283e70aa3")
 	)
 	(wire
 		(pts
-			(xy 88.9 81.28) (xy 88.9 86.36)
+			(xy 129.54 110.49) (xy 129.54 115.57)
 		)
 		(stroke
 			(width 0)
@@ -700,7 +700,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 81.28) (xy 110.49 86.36)
+			(xy 151.13 110.49) (xy 151.13 115.57)
 		)
 		(stroke
 			(width 0)
@@ -710,7 +710,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 69.85) (xy 88.9 69.85)
+			(xy 151.13 99.06) (xy 129.54 99.06)
 		)
 		(stroke
 			(width 0)
@@ -720,7 +720,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 86.36) (xy 110.49 86.36)
+			(xy 140.97 115.57) (xy 151.13 115.57)
 		)
 		(stroke
 			(width 0)
@@ -730,7 +730,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 73.66) (xy 88.9 69.85)
+			(xy 129.54 102.87) (xy 129.54 99.06)
 		)
 		(stroke
 			(width 0)
@@ -740,7 +740,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 69.85) (xy 83.82 69.85)
+			(xy 129.54 99.06) (xy 124.46 99.06)
 		)
 		(stroke
 			(width 0)
@@ -750,7 +750,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 86.36) (xy 100.33 90.17)
+			(xy 140.97 115.57) (xy 140.97 119.38)
 		)
 		(stroke
 			(width 0)
@@ -760,7 +760,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 86.36) (xy 100.33 86.36)
+			(xy 129.54 115.57) (xy 140.97 115.57)
 		)
 		(stroke
 			(width 0)
@@ -770,7 +770,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 69.85) (xy 110.49 73.66)
+			(xy 151.13 99.06) (xy 151.13 102.87)
 		)
 		(stroke
 			(width 0)
@@ -780,7 +780,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 69.85) (xy 119.38 69.85)
+			(xy 151.13 99.06) (xy 160.02 99.06)
 		)
 		(stroke
 			(width 0)
@@ -790,7 +790,7 @@
 	)
 	(hierarchical_label "A_4mA__20mA_in"
 		(shape input)
-		(at 83.82 69.85 180)
+		(at 124.46 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -801,7 +801,7 @@
 	)
 	(hierarchical_label "A_4mA_20mA_Out"
 		(shape output)
-		(at 119.38 69.85 0)
+		(at 160.02 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -812,7 +812,7 @@
 	)
 	(symbol
 		(lib_id "PCM_Capacitor_US_AKL:C_0603")
-		(at 110.49 77.47 180)
+		(at 151.13 106.68 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -820,7 +820,7 @@
 		(dnp no)
 		(uuid "83e73f62-b830-4de6-9b0e-35f142200a02")
 		(property "Reference" "C4"
-			(at 116.586 75.438 0)
+			(at 157.226 104.648 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -828,7 +828,7 @@
 			)
 		)
 		(property "Value" "C_0603"
-			(at 116.84 77.216 90)
+			(at 157.48 106.426 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -837,7 +837,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Capacitor_SMD_AKL:C_0603_1608Metric"
-			(at 109.5248 73.66 0)
+			(at 150.1648 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -846,7 +846,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 110.49 77.47 0)
+			(at 151.13 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -855,7 +855,7 @@
 			)
 		)
 		(property "Description" "SMD 0603 MLCC capacitor, Alternate KiCad Library"
-			(at 110.49 77.47 0)
+			(at 151.13 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -864,7 +864,7 @@
 			)
 		)
 		(property "Capacidad" "100nF"
-			(at 116.586 77.47 0)
+			(at 157.226 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -872,7 +872,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 110.49 77.47 0)
+			(at 151.13 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -880,7 +880,7 @@
 			)
 		)
 		(property "Voltaje" "10v"
-			(at 116.586 79.248 0)
+			(at 157.226 108.458 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -904,7 +904,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 100.33 90.17 0)
+		(at 140.97 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -913,7 +913,7 @@
 		(fields_autoplaced yes)
 		(uuid "879c7be1-ba77-4e57-a349-9f2d2667d17b")
 		(property "Reference" "#PWR033"
-			(at 100.33 96.52 0)
+			(at 140.97 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -922,7 +922,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 100.33 95.25 0)
+			(at 140.97 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -930,7 +930,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 90.17 0)
+			(at 140.97 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -939,7 +939,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 90.17 0)
+			(at 140.97 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -948,7 +948,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 100.33 90.17 0)
+			(at 140.97 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -970,7 +970,7 @@
 	)
 	(symbol
 		(lib_id "PCM_Resistor_US_AKL:R_0603")
-		(at 88.9 77.47 0)
+		(at 129.54 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -978,7 +978,7 @@
 		(dnp no)
 		(uuid "8be168e0-6fb4-447b-a70a-9b86aa2479ca")
 		(property "Reference" "R14"
-			(at 92.456 75.946 0)
+			(at 133.096 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -986,7 +986,7 @@
 			)
 		)
 		(property "Value" "R_0603"
-			(at 81.534 77.47 90)
+			(at 122.174 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -995,7 +995,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
-			(at 88.9 88.9 0)
+			(at 129.54 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1004,7 +1004,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 77.47 0)
+			(at 129.54 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1013,7 +1013,7 @@
 			)
 		)
 		(property "Description" "SMD 0603 Chip Resistor, US Symbol, Alternate KiCad Library"
-			(at 88.9 77.47 0)
+			(at 129.54 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1022,7 +1022,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 88.9 77.47 0)
+			(at 129.54 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1031,7 +1031,7 @@
 			)
 		)
 		(property "Capacidad" "120"
-			(at 92.456 77.724 0)
+			(at 133.096 106.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
