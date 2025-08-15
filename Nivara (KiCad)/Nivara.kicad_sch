@@ -1413,7 +1413,7 @@
 	)
 	(text "Start | Stop"
 		(exclude_from_sim no)
-		(at 173.482 198.374 0)
+		(at 173.482 184.404 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1423,7 +1423,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 181.61) (xy 252.73 181.61)
+			(xy 248.92 167.64) (xy 252.73 167.64)
 		)
 		(stroke
 			(width 0)
@@ -1433,7 +1433,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 185.42) (xy 190.5 185.42)
+			(xy 186.69 171.45) (xy 190.5 171.45)
 		)
 		(stroke
 			(width 0)
@@ -1443,7 +1443,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 146.05) (xy 252.73 146.05)
+			(xy 248.92 132.08) (xy 252.73 132.08)
 		)
 		(stroke
 			(width 0)
@@ -1453,7 +1453,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 166.37) (xy 251.46 167.64)
+			(xy 251.46 152.4) (xy 251.46 153.67)
 		)
 		(stroke
 			(width 0)
@@ -1463,7 +1463,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 144.78) (xy 190.5 144.78)
+			(xy 186.69 130.81) (xy 190.5 130.81)
 		)
 		(stroke
 			(width 0)
@@ -1473,7 +1473,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 151.13) (xy 251.46 151.13)
+			(xy 252.73 137.16) (xy 251.46 137.16)
 		)
 		(stroke
 			(width 0)
@@ -1483,7 +1483,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 165.1) (xy 190.5 165.1)
+			(xy 186.69 151.13) (xy 190.5 151.13)
 		)
 		(stroke
 			(width 0)
@@ -1493,7 +1493,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 217.17) (xy 232.41 217.805)
+			(xy 232.41 203.2) (xy 232.41 203.835)
 		)
 		(stroke
 			(width 0)
@@ -1503,7 +1503,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 194.31) (xy 252.73 194.31)
+			(xy 248.92 180.34) (xy 252.73 180.34)
 		)
 		(stroke
 			(width 0)
@@ -1513,7 +1513,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 187.96) (xy 190.5 187.96)
+			(xy 186.69 173.99) (xy 190.5 173.99)
 		)
 		(stroke
 			(width 0)
@@ -1523,7 +1523,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 172.72) (xy 187.96 173.99)
+			(xy 187.96 158.75) (xy 187.96 160.02)
 		)
 		(stroke
 			(width 0)
@@ -1533,7 +1533,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 201.93) (xy 252.73 201.93)
+			(xy 248.92 187.96) (xy 252.73 187.96)
 		)
 		(stroke
 			(width 0)
@@ -1543,7 +1543,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 176.53) (xy 252.73 176.53)
+			(xy 248.92 162.56) (xy 252.73 162.56)
 		)
 		(stroke
 			(width 0)
@@ -1553,7 +1553,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 157.48) (xy 190.5 157.48)
+			(xy 186.69 143.51) (xy 190.5 143.51)
 		)
 		(stroke
 			(width 0)
@@ -1563,7 +1563,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 196.85) (xy 252.73 196.85)
+			(xy 248.92 182.88) (xy 252.73 182.88)
 		)
 		(stroke
 			(width 0)
@@ -1573,7 +1573,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 184.15) (xy 252.73 184.15)
+			(xy 248.92 170.18) (xy 252.73 170.18)
 		)
 		(stroke
 			(width 0)
@@ -1583,7 +1583,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 196.85) (xy 190.5 196.85)
+			(xy 186.69 182.88) (xy 190.5 182.88)
 		)
 		(stroke
 			(width 0)
@@ -1593,7 +1593,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 166.37) (xy 251.46 166.37)
+			(xy 252.73 152.4) (xy 251.46 152.4)
 		)
 		(stroke
 			(width 0)
@@ -1603,7 +1603,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 167.64) (xy 190.5 167.64)
+			(xy 186.69 153.67) (xy 190.5 153.67)
 		)
 		(stroke
 			(width 0)
@@ -1613,7 +1613,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 199.39) (xy 187.96 200.66)
+			(xy 187.96 185.42) (xy 187.96 186.69)
 		)
 		(stroke
 			(width 0)
@@ -1623,7 +1623,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 148.59) (xy 252.73 148.59)
+			(xy 248.92 134.62) (xy 252.73 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1633,7 +1633,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 161.29) (xy 252.73 161.29)
+			(xy 248.92 147.32) (xy 252.73 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1643,7 +1643,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 154.94) (xy 190.5 154.94)
+			(xy 186.69 140.97) (xy 190.5 140.97)
 		)
 		(stroke
 			(width 0)
@@ -1653,7 +1653,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 204.47) (xy 252.73 204.47)
+			(xy 248.92 190.5) (xy 252.73 190.5)
 		)
 		(stroke
 			(width 0)
@@ -1663,7 +1663,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 172.72) (xy 187.96 172.72)
+			(xy 186.69 158.75) (xy 187.96 158.75)
 		)
 		(stroke
 			(width 0)
@@ -1673,7 +1673,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 191.77) (xy 252.73 191.77)
+			(xy 248.92 177.8) (xy 252.73 177.8)
 		)
 		(stroke
 			(width 0)
@@ -1683,7 +1683,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 217.805) (xy 227.965 217.805)
+			(xy 229.87 203.835) (xy 227.965 203.835)
 		)
 		(stroke
 			(width 0)
@@ -1693,7 +1693,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 182.88) (xy 190.5 182.88)
+			(xy 186.69 168.91) (xy 190.5 168.91)
 		)
 		(stroke
 			(width 0)
@@ -1703,7 +1703,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 163.83) (xy 252.73 163.83)
+			(xy 248.92 149.86) (xy 252.73 149.86)
 		)
 		(stroke
 			(width 0)
@@ -1713,7 +1713,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 190.5) (xy 190.5 190.5)
+			(xy 186.69 176.53) (xy 190.5 176.53)
 		)
 		(stroke
 			(width 0)
@@ -1723,7 +1723,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 199.39) (xy 186.69 199.39)
+			(xy 187.96 185.42) (xy 186.69 185.42)
 		)
 		(stroke
 			(width 0)
@@ -1733,7 +1733,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 199.39) (xy 252.73 199.39)
+			(xy 248.92 185.42) (xy 252.73 185.42)
 		)
 		(stroke
 			(width 0)
@@ -1743,7 +1743,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 217.805) (xy 234.315 217.805)
+			(xy 232.41 203.835) (xy 234.315 203.835)
 		)
 		(stroke
 			(width 0)
@@ -1753,7 +1753,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 151.13) (xy 251.46 152.4)
+			(xy 251.46 137.16) (xy 251.46 138.43)
 		)
 		(stroke
 			(width 0)
@@ -1763,7 +1763,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 179.07) (xy 252.73 179.07)
+			(xy 248.92 165.1) (xy 252.73 165.1)
 		)
 		(stroke
 			(width 0)
@@ -1773,7 +1773,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 170.18) (xy 190.5 170.18)
+			(xy 186.69 156.21) (xy 190.5 156.21)
 		)
 		(stroke
 			(width 0)
@@ -1783,7 +1783,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 217.17) (xy 229.87 217.805)
+			(xy 229.87 203.2) (xy 229.87 203.835)
 		)
 		(stroke
 			(width 0)
@@ -1793,7 +1793,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 147.32) (xy 190.5 147.32)
+			(xy 186.69 133.35) (xy 190.5 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1803,7 +1803,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_2_P5.00mm")
-		(at 182.88 156.21 180)
+		(at 182.88 142.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1811,7 +1811,7 @@
 		(dnp no)
 		(uuid "019619e0-75ff-41a4-84e0-d614eb14d20d")
 		(property "Reference" "J2"
-			(at 179.07 154.178 0)
+			(at 179.07 140.208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1819,7 +1819,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_2_P5.00mm"
-			(at 182.245 151.13 0)
+			(at 182.245 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1828,7 +1828,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal"
-			(at 181.61 149.86 0)
+			(at 181.61 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1837,7 +1837,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 156.21 0)
+			(at 182.88 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1846,7 +1846,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 156.21 0)
+			(at 182.88 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1855,7 +1855,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 182.88 156.21 0)
+			(at 182.88 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1879,7 +1879,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_3_P5.00mm")
-		(at 256.54 148.59 0)
+		(at 256.54 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1887,7 +1887,7 @@
 		(dnp no)
 		(uuid "06667df2-cada-4271-a5ba-acca5cb12f41")
 		(property "Reference" "J7"
-			(at 259.588 145.288 0)
+			(at 259.588 131.318 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1896,7 +1896,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_3_P5.00mm"
-			(at 260.35 149.8599 0)
+			(at 260.35 135.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1906,7 +1906,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-5.0-H_1x03_P5.00mm_Horizontal"
-			(at 257.81 156.21 0)
+			(at 257.81 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1915,7 +1915,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 256.54 147.32 0)
+			(at 256.54 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1924,7 +1924,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 256.54 148.59 0)
+			(at 256.54 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1933,7 +1933,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 256.54 148.59 0)
+			(at 256.54 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1960,7 +1960,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 251.46 152.4 0)
+		(at 251.46 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1968,7 +1968,7 @@
 		(dnp no)
 		(uuid "070d71cf-acd1-4a46-9922-543252b92abc")
 		(property "Reference" "#PWR05"
-			(at 251.46 158.75 0)
+			(at 251.46 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1977,7 +1977,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 251.46 156.464 0)
+			(at 251.46 142.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1985,7 +1985,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 251.46 152.4 0)
+			(at 251.46 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1994,7 +1994,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 152.4 0)
+			(at 251.46 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2003,7 +2003,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 251.46 152.4 0)
+			(at 251.46 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2025,7 +2025,7 @@
 	)
 	(symbol
 		(lib_id "Device:Antenna")
-		(at 248.92 134.62 0)
+		(at 248.92 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2033,7 +2033,7 @@
 		(dnp no)
 		(uuid "1c1b8387-6a1d-4ede-ab26-a9e2588d23fc")
 		(property "Reference" "AE1"
-			(at 251.46 133.9849 0)
+			(at 251.46 120.0149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2043,7 +2043,7 @@
 			)
 		)
 		(property "Value" "Wifi"
-			(at 244.856 140.97 0)
+			(at 244.856 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2052,7 +2052,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 248.92 134.62 0)
+			(at 248.92 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2061,7 +2061,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 248.92 134.62 0)
+			(at 248.92 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2070,7 +2070,7 @@
 			)
 		)
 		(property "Description" "Antenna"
-			(at 248.92 134.62 0)
+			(at 248.92 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2079,7 +2079,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 248.92 134.62 0)
+			(at 248.92 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2100,7 +2100,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 227.965 217.805 270)
+		(at 227.965 203.835 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2108,7 +2108,7 @@
 		(dnp no)
 		(uuid "20bfa8a9-ee5b-4e83-9f12-ae3ee5dbb22a")
 		(property "Reference" "#PWR03"
-			(at 221.615 217.805 0)
+			(at 221.615 203.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2117,7 +2117,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 223.901 217.805 0)
+			(at 223.901 203.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2125,7 +2125,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 227.965 217.805 0)
+			(at 227.965 203.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2134,7 +2134,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 227.965 217.805 0)
+			(at 227.965 203.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2143,7 +2143,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 227.965 217.805 0)
+			(at 227.965 203.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2165,7 +2165,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 200.66 0)
+		(at 187.96 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2173,7 +2173,7 @@
 		(dnp no)
 		(uuid "4de8a246-5a30-4927-89fa-e18964f70deb")
 		(property "Reference" "#PWR02"
-			(at 187.96 207.01 0)
+			(at 187.96 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2182,7 +2182,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 204.724 0)
+			(at 187.96 190.754 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2190,7 +2190,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 200.66 0)
+			(at 187.96 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2199,7 +2199,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 200.66 0)
+			(at 187.96 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2208,7 +2208,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 200.66 0)
+			(at 187.96 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2230,7 +2230,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_4_P5.00mm")
-		(at 256.54 180.34 0)
+		(at 256.54 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2238,7 +2238,7 @@
 		(dnp no)
 		(uuid "58fe6dde-91dc-4be8-a4e8-a52e4ed4bcd4")
 		(property "Reference" "J9"
-			(at 259.334 175.514 0)
+			(at 259.334 161.544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2247,7 +2247,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_4_P5.00mm"
-			(at 260.35 181.6099 0)
+			(at 260.35 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2257,7 +2257,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-5.0-H_1x04_P5.00mm_Horizontal"
-			(at 256.54 189.23 0)
+			(at 256.54 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2266,7 +2266,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 256.54 177.8 0)
+			(at 256.54 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2275,7 +2275,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 256.54 180.34 0)
+			(at 256.54 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2284,7 +2284,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 256.54 180.34 0)
+			(at 256.54 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2314,7 +2314,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 251.46 167.64 0)
+		(at 251.46 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2322,7 +2322,7 @@
 		(dnp no)
 		(uuid "66d1e87a-6f3e-4c84-a44c-664ad5bdd1e6")
 		(property "Reference" "#PWR06"
-			(at 251.46 173.99 0)
+			(at 251.46 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2331,7 +2331,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 251.46 171.704 0)
+			(at 251.46 157.734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2339,7 +2339,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 251.46 167.64 0)
+			(at 251.46 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2348,7 +2348,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 167.64 0)
+			(at 251.46 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2357,7 +2357,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 251.46 167.64 0)
+			(at 251.46 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2379,7 +2379,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_2_P5.00mm")
-		(at 182.88 198.12 0)
+		(at 182.88 184.15 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2388,7 +2388,7 @@
 		(dnp no)
 		(uuid "7716ea7c-0633-4d8f-b0f8-49ac1c92718d")
 		(property "Reference" "J5"
-			(at 182.118 201.93 0)
+			(at 179.07 182.118 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2396,7 +2396,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_2_P5.00mm"
-			(at 182.245 203.2 0)
+			(at 182.245 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2405,7 +2405,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal"
-			(at 181.61 204.47 0)
+			(at 181.61 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2414,7 +2414,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 198.12 0)
+			(at 182.88 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2423,7 +2423,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 198.12 0)
+			(at 182.88 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2432,7 +2432,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 182.88 198.12 0)
+			(at 182.88 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2456,7 +2456,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_3_P5.00mm")
-		(at 256.54 163.83 0)
+		(at 256.54 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2464,7 +2464,7 @@
 		(dnp no)
 		(uuid "9b34c41e-fc67-4caf-95f1-41176e4018f5")
 		(property "Reference" "J8"
-			(at 259.334 160.528 0)
+			(at 259.334 146.558 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2473,7 +2473,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_3_P5.00mm"
-			(at 260.35 165.0999 0)
+			(at 260.35 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2483,7 +2483,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-5.0-H_1x03_P5.00mm_Horizontal"
-			(at 257.81 171.45 0)
+			(at 257.81 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2492,7 +2492,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 256.54 162.56 0)
+			(at 256.54 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2501,7 +2501,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 256.54 163.83 0)
+			(at 256.54 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2510,7 +2510,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 256.54 163.83 0)
+			(at 256.54 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2537,7 +2537,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_4_P5.00mm")
-		(at 182.88 168.91 0)
+		(at 182.88 154.94 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2546,7 +2546,7 @@
 		(dnp no)
 		(uuid "a46259eb-e38c-444f-943c-b61cf45d61f3")
 		(property "Reference" "J3"
-			(at 180.086 164.338 0)
+			(at 180.086 150.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2555,7 +2555,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_4_P5.00mm"
-			(at 179.07 170.1799 0)
+			(at 179.07 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2565,7 +2565,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-5.0-H_1x04_P5.00mm_Horizontal"
-			(at 182.88 177.8 0)
+			(at 182.88 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2574,7 +2574,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 166.37 0)
+			(at 182.88 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2583,7 +2583,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 168.91 0)
+			(at 182.88 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2592,7 +2592,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 182.88 168.91 0)
+			(at 182.88 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2622,7 +2622,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 234.315 217.805 270)
+		(at 234.315 203.835 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2630,7 +2630,7 @@
 		(dnp no)
 		(uuid "a5e0883e-c192-4d52-9f3e-0167bc3f6336")
 		(property "Reference" "#PWR04"
-			(at 230.505 217.805 0)
+			(at 230.505 203.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2639,7 +2639,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 238.125 217.805 0)
+			(at 238.125 203.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2647,7 +2647,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 234.315 217.805 0)
+			(at 234.315 203.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2656,7 +2656,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.315 217.805 0)
+			(at 234.315 203.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2665,7 +2665,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 234.315 217.805 0)
+			(at 234.315 203.835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2687,7 +2687,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_6_P5.00mm")
-		(at 256.54 198.12 0)
+		(at 256.54 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2695,7 +2695,7 @@
 		(dnp no)
 		(uuid "b279ca85-d7cb-4c00-bc10-e5eed658dcf1")
 		(property "Reference" "J10"
-			(at 259.588 191.008 0)
+			(at 259.588 177.038 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2704,7 +2704,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_6_P5.00mm"
-			(at 260.35 199.3899 0)
+			(at 260.35 185.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2714,7 +2714,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-6-5.0-H_1x06_P5.00mm_Horizontal"
-			(at 257.81 209.55 0)
+			(at 257.81 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2723,7 +2723,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 256.54 193.04 0)
+			(at 256.54 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2732,7 +2732,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 256.54 198.12 0)
+			(at 256.54 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2741,7 +2741,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 256.54 198.12 0)
+			(at 256.54 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2777,7 +2777,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_2_P5.00mm")
-		(at 182.88 146.05 180)
+		(at 182.88 132.08 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2785,7 +2785,7 @@
 		(dnp no)
 		(uuid "b7b15341-3c28-4fd0-bdce-ca186f22b31c")
 		(property "Reference" "J1"
-			(at 179.324 144.018 0)
+			(at 179.324 130.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2793,7 +2793,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_2_P5.00mm"
-			(at 182.245 140.97 0)
+			(at 182.245 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2802,7 +2802,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal"
-			(at 181.61 139.7 0)
+			(at 181.61 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2811,7 +2811,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 146.05 0)
+			(at 182.88 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2820,7 +2820,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 146.05 0)
+			(at 182.88 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2829,7 +2829,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 182.88 146.05 0)
+			(at 182.88 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2853,7 +2853,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 173.99 0)
+		(at 187.96 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2861,7 +2861,7 @@
 		(dnp no)
 		(uuid "cfc3acb9-4518-4aa3-a2e2-12522f058164")
 		(property "Reference" "#PWR01"
-			(at 187.96 180.34 0)
+			(at 187.96 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2870,7 +2870,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 178.054 0)
+			(at 187.96 164.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2878,7 +2878,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 173.99 0)
+			(at 187.96 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2887,7 +2887,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 173.99 0)
+			(at 187.96 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2896,7 +2896,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 173.99 0)
+			(at 187.96 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2918,7 +2918,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_4_P5.00mm")
-		(at 182.88 186.69 0)
+		(at 182.88 172.72 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2927,7 +2927,7 @@
 		(dnp no)
 		(uuid "f614b490-adc4-457c-bf1e-afd083a82643")
 		(property "Reference" "J4"
-			(at 180.086 182.118 0)
+			(at 180.086 168.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2936,7 +2936,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_4_P5.00mm"
-			(at 179.07 187.9599 0)
+			(at 179.07 173.9899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2946,7 +2946,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-5.0-H_1x04_P5.00mm_Horizontal"
-			(at 182.88 195.58 0)
+			(at 182.88 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2955,7 +2955,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 184.15 0)
+			(at 182.88 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2964,7 +2964,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 182.88 186.69 0)
+			(at 182.88 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2973,7 +2973,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 182.88 186.69 0)
+			(at 182.88 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3003,7 +3003,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SL_Screw_Terminal:Screw_Terminal_2_P5.00mm")
-		(at 231.14 213.36 90)
+		(at 231.14 199.39 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3011,7 +3011,7 @@
 		(dnp no)
 		(uuid "fdb6e509-505b-4b69-a9b7-4cdbaea6a065")
 		(property "Reference" "J6"
-			(at 230.759 209.423 90)
+			(at 230.759 195.453 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3019,7 +3019,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_2_P5.00mm"
-			(at 236.22 212.725 0)
+			(at 236.22 198.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3028,7 +3028,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal"
-			(at 237.49 212.09 0)
+			(at 237.49 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3037,7 +3037,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 213.36 0)
+			(at 231.14 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3046,7 +3046,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 231.14 213.36 0)
+			(at 231.14 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3055,7 +3055,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 231.14 213.36 0)
+			(at 231.14 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3078,7 +3078,7 @@
 		)
 	)
 	(sheet
-		(at 190.5 139.7)
+		(at 190.5 125.73)
 		(size 58.42 68.58)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3093,7 +3093,7 @@
 		)
 		(uuid "711b914f-41ac-411e-bef3-8ade05c9a19b")
 		(property "Sheetname" "Board"
-			(at 214.376 138.684 0)
+			(at 214.376 124.714 0)
 			(effects
 				(font
 					(size 2.54 2.54)
@@ -3102,7 +3102,7 @@
 			)
 		)
 		(property "Sheetfile" "Placa_Nivara.kicad_sch"
-			(at 190.5 208.8646 0)
+			(at 190.5 194.8946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3112,7 +3112,7 @@
 			)
 		)
 		(pin "Analog_0_10_OUT1" output
-			(at 248.92 161.29 0)
+			(at 248.92 147.32 0)
 			(uuid "85c5ee00-0cc9-4bca-b8c2-270fd7175bf1")
 			(effects
 				(font
@@ -3122,7 +3122,7 @@
 			)
 		)
 		(pin "Analog_0_10_IN1 " input
-			(at 190.5 165.1 180)
+			(at 190.5 151.13 180)
 			(uuid "bda82f9e-a981-4691-8747-39f3e01530e5")
 			(effects
 				(font
@@ -3132,7 +3132,7 @@
 			)
 		)
 		(pin "Analog_0-32_IN1" input
-			(at 190.5 167.64 180)
+			(at 190.5 153.67 180)
 			(uuid "5d360933-f757-4dfc-bce3-53bf5fd27c62")
 			(effects
 				(font
@@ -3142,7 +3142,7 @@
 			)
 		)
 		(pin "Analog_4-20_IN1" input
-			(at 190.5 170.18 180)
+			(at 190.5 156.21 180)
 			(uuid "eae607c6-8ba2-40a8-864b-2ad923d1c51b")
 			(effects
 				(font
@@ -3152,7 +3152,7 @@
 			)
 		)
 		(pin "Analog_4_20_OUT1" output
-			(at 248.92 163.83 0)
+			(at 248.92 149.86 0)
 			(uuid "7d21efe5-b4d3-40f9-9e0e-ea010b708c56")
 			(effects
 				(font
@@ -3162,7 +3162,7 @@
 			)
 		)
 		(pin "NPN_IN1" input
-			(at 190.5 144.78 180)
+			(at 190.5 130.81 180)
 			(uuid "0de93b3b-d86d-4571-81b5-0e0605cbe35d")
 			(effects
 				(font
@@ -3172,7 +3172,7 @@
 			)
 		)
 		(pin "NPN_IN2" input
-			(at 190.5 147.32 180)
+			(at 190.5 133.35 180)
 			(uuid "dc07fc05-5012-4645-bc64-563cfccb06e8")
 			(effects
 				(font
@@ -3182,7 +3182,7 @@
 			)
 		)
 		(pin "PNP_IN1" input
-			(at 190.5 154.94 180)
+			(at 190.5 140.97 180)
 			(uuid "4364246e-1a03-46cc-aff2-683465a51a77")
 			(effects
 				(font
@@ -3192,7 +3192,7 @@
 			)
 		)
 		(pin "PNP_IN2" input
-			(at 190.5 157.48 180)
+			(at 190.5 143.51 180)
 			(uuid "e3c19512-ced1-43f4-aadc-a4d4a317ca9b")
 			(effects
 				(font
@@ -3202,7 +3202,7 @@
 			)
 		)
 		(pin "RLY_2_NC" output
-			(at 248.92 194.31 0)
+			(at 248.92 180.34 0)
 			(uuid "10d0493d-d86a-4099-a8ff-e99da1baa0c5")
 			(effects
 				(font
@@ -3212,7 +3212,7 @@
 			)
 		)
 		(pin "RLY_1_NC" output
-			(at 248.92 191.77 0)
+			(at 248.92 177.8 0)
 			(uuid "a8788d72-eff0-4b94-b5a3-91b757e598ab")
 			(effects
 				(font
@@ -3222,7 +3222,7 @@
 			)
 		)
 		(pin "RLY_1_NO" output
-			(at 248.92 196.85 0)
+			(at 248.92 182.88 0)
 			(uuid "0802e745-d763-44e3-af5e-1299270cec20")
 			(effects
 				(font
@@ -3232,7 +3232,7 @@
 			)
 		)
 		(pin "RLY_1_COM" output
-			(at 248.92 201.93 0)
+			(at 248.92 187.96 0)
 			(uuid "24f5a5b6-d74e-4786-87f7-459cb4f6b033")
 			(effects
 				(font
@@ -3242,7 +3242,7 @@
 			)
 		)
 		(pin "RLY_1_NO" output
-			(at 248.92 199.39 0)
+			(at 248.92 185.42 0)
 			(uuid "f7d64b04-ad13-4e8e-98af-eeadfcb6a4d5")
 			(effects
 				(font
@@ -3252,7 +3252,7 @@
 			)
 		)
 		(pin "RLY_2_COM" output
-			(at 248.92 204.47 0)
+			(at 248.92 190.5 0)
 			(uuid "0f930f2f-bc46-47f5-99ca-2842979de4d6")
 			(effects
 				(font
@@ -3262,7 +3262,7 @@
 			)
 		)
 		(pin "RS485-A" bidirectional
-			(at 248.92 146.05 0)
+			(at 248.92 132.08 0)
 			(uuid "e2e5b134-d7df-46c3-89a1-af36a7c1e865")
 			(effects
 				(font
@@ -3272,7 +3272,7 @@
 			)
 		)
 		(pin "RS485-B" bidirectional
-			(at 248.92 148.59 0)
+			(at 248.92 134.62 0)
 			(uuid "c7aa62dc-6202-4d2f-a48b-f7a01268b264")
 			(effects
 				(font
@@ -3282,7 +3282,7 @@
 			)
 		)
 		(pin "Start | Stop" bidirectional
-			(at 190.5 196.85 180)
+			(at 190.5 182.88 180)
 			(uuid "c5b69e40-54fa-4628-9e90-cc78f3f4ef79")
 			(effects
 				(font
@@ -3292,7 +3292,7 @@
 			)
 		)
 		(pin "NPN_OUT_1" output
-			(at 248.92 176.53 0)
+			(at 248.92 162.56 0)
 			(uuid "1de71c61-4c36-410f-b49a-aa97b9c9fc04")
 			(effects
 				(font
@@ -3302,7 +3302,7 @@
 			)
 		)
 		(pin "NPN_OUT_2" output
-			(at 248.92 179.07 0)
+			(at 248.92 165.1 0)
 			(uuid "e0cd7a1f-edb4-4e06-aa22-1692d4fe85cd")
 			(effects
 				(font
@@ -3312,7 +3312,7 @@
 			)
 		)
 		(pin "PNP_OUT_1" output
-			(at 248.92 181.61 0)
+			(at 248.92 167.64 0)
 			(uuid "ead61118-d10d-453b-bce4-9cc1900cad34")
 			(effects
 				(font
@@ -3322,7 +3322,7 @@
 			)
 		)
 		(pin "PNP_OUT_2" output
-			(at 248.92 184.15 0)
+			(at 248.92 170.18 0)
 			(uuid "57733716-27ca-4918-8694-2d49d1bf8a24")
 			(effects
 				(font
@@ -3332,7 +3332,7 @@
 			)
 		)
 		(pin "Plus_Digit_IN1" input
-			(at 190.5 182.88 180)
+			(at 190.5 168.91 180)
 			(uuid "ddb27cad-a9b0-47b3-86d0-0c3d4634075a")
 			(effects
 				(font
@@ -3342,7 +3342,7 @@
 			)
 		)
 		(pin "Plus_Digit_IN2" input
-			(at 190.5 187.96 180)
+			(at 190.5 173.99 180)
 			(uuid "0b93386c-8991-4c8d-8d1d-d4645087eee7")
 			(effects
 				(font
@@ -3352,7 +3352,7 @@
 			)
 		)
 		(pin "Neg_Digit_IN1" input
-			(at 190.5 185.42 180)
+			(at 190.5 171.45 180)
 			(uuid "577a61e4-eb1b-4082-a9b3-ab5b6cd085c7")
 			(effects
 				(font
@@ -3362,7 +3362,7 @@
 			)
 		)
 		(pin "Neg_Digit_IN2" input
-			(at 190.5 190.5 180)
+			(at 190.5 176.53 180)
 			(uuid "9b93b85a-86cd-4a84-982c-87a9da446370")
 			(effects
 				(font
